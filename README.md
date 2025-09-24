@@ -1,6 +1,4 @@
-# Country Side
-The running learner 
-when I moved to the coutry side.
-I started reading more book to improve my knowledgw
-I discovered some new informaton about the country
-I learnt about the specifity of the countryside
+# My cute cat
+this project is for people who likes cats
+## how to build it using html ans css
+https://codepen.io/kadimi07/pen/XJXbyXR
