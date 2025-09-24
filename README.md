@@ -1,4 +1,4 @@
 # My cute cat by Khadidja Adimi
 this project is for people who likes cats
-## how to build it using html ans css
+## how to build it using html and css
 https://codepen.io/kadimi07/pen/XJXbyXR
